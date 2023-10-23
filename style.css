@@ -1,5 +1,5 @@
 *{
-
+  
 }
 
 body{
@@ -99,10 +99,15 @@ input[type=submit]{
 
 #titulo-navbar{
   color: #B18FCF;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 900;
+  margin: 10 px;
+  padding-left: 30px;
 }
 
 #color-text-navbar{
   color: #D8D8F6;
+  font-family: 'Roboto', serif;
 }
 
 #color-text-navbar:hover{
@@ -110,6 +115,8 @@ input[type=submit]{
 }
 
 .titles{
-  color: #D8D8F6
+  color: #D8D8F6;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 900;
 }
 
