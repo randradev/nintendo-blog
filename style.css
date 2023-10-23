@@ -1,5 +1,7 @@
 *{
-  
+  box-sizing: border-box,
+  margin 0,
+  padding: 0
 }
 
 body{
@@ -120,3 +122,42 @@ input[type=submit]{
   font-weight: 900;
 }
 
+.subtitles{
+  color: #D8D8F6;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 500;
+}
+
+.parrafos{
+  color: #D8D8F6;
+  font-family: 'Roboto', serif;
+  font-weight: 300;
+}
+
+#readmore > a{
+  color: #B18FCF;
+  font-family: 'Roboto', serif;
+  font-weight: 500;
+}
+
+.etiqueta {
+  color: #B18FCF;
+  font-family: 'Roboto', serif;
+  font-weight: 300;
+}
+
+.submit {
+  color: #2C2C34;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 500;
+}
+
+.enlaces{
+  color: #B18FCF;
+  font-family: 'Roboto', serif;
+  font-weight: 500;
+}
+
+.footer{
+  background-color: #2C2C34;
+}
