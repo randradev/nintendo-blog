@@ -1,7 +1,7 @@
 *{
   box-sizing: border-box,
   margin 0,
-  padding: 0
+  padding 0
 }
 
 body{
@@ -160,4 +160,12 @@ input[type=submit]{
 
 .footer{
   background-color: #2C2C34;
+}
+
+.bloque{
+  margin: 100px
+}
+
+.photostyle{
+  border-radius: 50px;
 }
